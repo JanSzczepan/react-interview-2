@@ -2,6 +2,7 @@
    "name": "react-interview-2",
    "private": true,
    "version": "0.0.0",
+   "homepage": "https://JanSzczepan.github.io/react-interview-2",
    "type": "module",
    "scripts": {
       "predeploy": "npm run build",
@@ -11,6 +12,8 @@
       "preview": "vite preview"
    },
    "dependencies": {
+      "axios": "^1.2.1",
+      "classnames": "^2.3.2",
       "gh-pages": "^4.0.0",
       "react": "^18.2.0",
       "react-dom": "^18.2.0",

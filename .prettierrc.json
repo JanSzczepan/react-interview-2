@@ -3,5 +3,6 @@
    "tabWidth": 3,
    "semi": false,
    "singleQuote": true,
+   "singleAttributePerLine": true,
    "printWidth": 1000
 }
